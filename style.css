@@ -1,0 +1,64 @@
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            text-align: center;
+            background-image: url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetwallpapers.com%2Fwallpaper%2Ffull%2F1%2Ff%2Ff%2F444652.jpg&f=1&nofb=1&ipt=45eaacd0f391aa898c84a870fc20ac833afb39cee0ae117bb4054017620dd07e&ipo=images);
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            color: rgb(255, 255, 255);
+        }
+        header {
+            background: rgba(0, 0, 0, 0.400);
+            padding: 1rem;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            gap: 20px;
+            margin: 0;
+            padding: 0;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: white;
+            padding: 8px 16px;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        nav ul li a:hover {
+            background-color: white;
+            color: #333;
+            border-radius: 5px;
+        }
+        .contenuto_iniziale {
+            width: 100%;
+            height: 170px;
+            background-color: rgba(0, 0, 0, 0.300);
+        }
+        .contenuto_centrale {
+            width: 100%;
+            height: 410px;
+            background-color: rgba(0, 0, 0, 0.300);
+        }
+        .contenuto_finale {
+            width: 100%;
+            height: 510px;
+            background-color: rgba(0, 0, 0, 0.300);
+            
+        }
+        .footer_finale {
+            width: 100%;
+            height: 100px;
+            background-color: rgba(0, 0, 0, 0.300);
+        }
+        main{
+            padding: 2rem;
+        }
