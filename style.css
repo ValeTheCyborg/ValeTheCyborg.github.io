@@ -2,7 +2,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             text-align: center;
-            background-image: url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetwallpapers.com%2Fwallpaper%2Ffull%2F1%2Ff%2Ff%2F444652.jpg&f=1&nofb=1&ipt=45eaacd0f391aa898c84a870fc20ac833afb39cee0ae117bb4054017620dd07e&ipo=images);
+            background-image: url(https://cdn.wallpapersafari.com/35/67/bXYQVo.jpg);
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
@@ -38,27 +38,72 @@
             color: #333;
             border-radius: 5px;
         }
-        .contenuto_iniziale {
+        .contenuto_iniziale_principale {
             width: 100%;
             height: 170px;
             background-color: rgba(0, 0, 0, 0.300);
         }
-        .contenuto_centrale {
+        .contenuto_centrale_principale {
             width: 100%;
-            height: 410px;
+            height: 120px;
             background-color: rgba(0, 0, 0, 0.300);
         }
-        .contenuto_finale {
+        .contenuto_finale_principale {
             width: 100%;
-            height: 510px;
+            height: 360px;
             background-color: rgba(0, 0, 0, 0.300);
             
         }
-        .footer_finale {
+        .footer_finale_principale {
             width: 100%;
             height: 100px;
             background-color: rgba(0, 0, 0, 0.300);
         }
         main{
             padding: 2rem;
+        }
+        .contenuto_iniziale_chi_siamo {
+            width: 100%;
+            height: 160px;
+            background-color: rgba(0, 0, 0, 0.300);
+            position: relative;
+        }
+        .footer_finale_chi_siamo {
+            width: 100%;
+            height: 100px;
+            background-color: rgba(0, 0, 0, 0.300);
+        }
+        .contenuto_iniziale_contatti {
+            width: 100%;
+            height: 160px;
+            background-color: rgba(0, 0, 0, 0.300);
+            position: relative;
+        }
+        .footer_finale_contatti {
+            width: 100%;
+            height: 100px;
+            background-color: rgba(0, 0, 0, 0.300);
+        }
+        .contenuto_iniziale_servizi {
+            width: 100%;
+            height: 170px;
+            background-color: rgba(0, 0, 0, 0.300);
+        }
+        .footer_finale_servizi {
+            width: 100%;
+            height: 100px;
+            background-color: rgba(0, 0, 0, 0.300);
+        }
+        button {
+            padding: 10px 20px;
+            margin: 5px;
+            background-color: #000000;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        
+        button:hover {
+            background-color: #000000;
         }
