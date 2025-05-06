@@ -41,23 +41,23 @@
         .contenuto_iniziale_principale {
             width: 100%;
             height: 170px;
-            background-color: rgba(0, 0, 0, 0.300);
+            background-color: rgba(0, 0, 0, 0.700);
         }
         .contenuto_centrale_principale {
             width: 100%;
-            height: 120px;
-            background-color: rgba(0, 0, 0, 0.300);
+            height: 160px;
+            background-color: rgba(0, 0, 0, 0.700);
         }
         .contenuto_finale_principale {
             width: 100%;
             height: 360px;
-            background-color: rgba(0, 0, 0, 0.300);
+            background-color: rgba(0, 0, 0, 0.700);
             
         }
         .footer {
             width: 100%;
             height: 100px;
-            background-color: rgba(0, 0, 0, 0.300);
+            background-color: rgba(0, 0, 0, 0.700);
         }
         main{
             padding: 2rem;
@@ -65,29 +65,34 @@
         .contenuto_iniziale_chi_siamo {
             width: 100%;
             height: 160px;
-            background-color: rgba(0, 0, 0, 0.300);
+            background-color: rgba(0, 0, 0, 0.700);
             position: relative;
         }
         .contenuto_iniziale_contatti {
             width: 100%;
             height: 160px;
-            background-color: rgba(0, 0, 0, 0.300);
+            background-color: rgba(0, 0, 0, 0.700);
             position: relative;
         }
         .contenuto_iniziale_servizi {
             width: 100%;
             height: 170px;
-            background-color: rgba(0, 0, 0, 0.300);
+            background-color: rgba(0, 0, 0, 0.700);
         }
         .contenuto_iniziale_changelogs {
             width: 100%;
             height: 170px;
-            background-color: rgba(0, 0, 0, 0.300);
+            background-color: rgba(0, 0, 0, 0.700);
         }
         .contenuto_centrale_changelogs{
             width: 100%;
             height: 170px;
-            background-color: rgba(0, 0, 0, 0.300);
+            background-color: rgba(0, 0, 0, 0.700);
+        }
+        .contenuto_20_changelogs{
+            width: 100%;
+            height: 200px;
+            background-color: rgba(0, 0, 0, 0.700);
         }
         button {
             padding: 10px 20px;
